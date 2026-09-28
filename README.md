@@ -1,6 +1,6 @@
 # SKS Department - Full-Featured Web Application & Admin Dashboard
 
-> **(Source code restricted for institutional privacy).** This public repository serves solely as a high-level portfolio overview of a comprehensive enterprise system prototype developed for campus management.
+> **(Source code restricted for institutional privacy).** This public repository serves solely as a portfolio overview of a comprehensive enterprise system prototype developed for campus management.
 
 ---
 
